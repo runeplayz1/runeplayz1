@@ -1,25 +1,49 @@
-# Hey there! 👋
+# RunePlayz
 
-I'm **Rune**, a Minecraft Server & Plugin Developer from **Pakistan** 🇵🇰.
+**Minecraft Server & Plugin Developer**  
+Pakistan 🇵🇰  
 
-I build and manage Minecraft servers, create custom plugins, and work on unique gameplay experiences.
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" />
+</p>
 
-If I get an idea for a server or plugin, I like turning it into something real and playable.
+---
 
-My main focus is **Minecraft development**, including server setups, custom plugins, PvP systems, and configurations.
+## About Me
 
-I've worked on different Minecraft projects and enjoy experimenting with new ideas to make servers better.
+I am a backend-focused Minecraft developer specializing in high-performance server systems and competitive PvP infrastructure.
 
-### Fun Facts:
+My primary focus is building clean, scalable, and optimized plugins designed for real-world production environments. I prioritize performance, maintainability, and proper architecture over shortcuts.
 
-* 🎮 I play Minecraft a lot
-* 💻 I enjoy coding plugins
-* ⚔️ I like PvP
-* 🛠️ I enjoy making servers
-* 🇵🇰 I'm from Pakistan
-* 🚀 Always working on something new
+I continuously work on improving my software engineering fundamentals and backend system design.
 
-### Where to Find Me:
+---
 
-🏢 **Studio:** Zero Studio
-💬 **Contact:** Reach me through Zero Studio
+## Technical Stack
+
+**Languages**  
+- Java (17 / 21)
+
+**Minecraft Development**  
+- Spigot API  
+- Paper API  
+- Event-driven architecture  
+- Custom game logic systems
+
+**Databases**  
+- MySQL  
+- MongoDB  
+- HikariCP (connection pooling)
+
+**Tools**  
+- Git & GitHub  
+- Maven / Gradle  
+- IntelliJ IDEA
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-17/21-orange?style=flat-square&logo=java" />
+  <img alt="Spigot" src="https://img.shields.io/badge/Spigot-API-yellow?style=flat-square" />
+  <img alt="Paper" src="https://img.shields.io/badge/Paper-API-blue?style=flat-square" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb" />
+</p>
